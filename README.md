@@ -30,3 +30,5 @@ Now open the browser and navigate to `http://localhost:8080` and you get your cl
 ### A few notes
 * I tried to complete all the feature whatever provided in the assignment 
 * I am starting the rest-api server with the `server.js` file which is in the server folder. This file loads the babel-register and sets up the babel plugins needed to run JSX and ESModules on the server.
+* Run ```yarn server``` first and once it started then run ```yarn dev-client```.Both of these command need to be run in separate terminal.
+
