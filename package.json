@@ -13,7 +13,6 @@
     "dev-client": "cross-env NODE_ENV=development env-cmd -f ./.env.development webpack-dev-server --config webpack.development.config.js --open --mode development",
     "build-client": "cross-env NODE_ENV=production env-cmd -f ./.env.production webpack -p --mode production --config ./webpack.config.js",
     "prod": "node client/server.js",
-    "start": "npm-run-all server  start-client"
   },
   "dependencies": {
     "@babel/cli": "^7.10.4",
