@@ -14,6 +14,7 @@
     text-decoration: none;
 }
 .card-image {
+    height: 270px;
     max-height: 300px;
     width: 100%;
     overflow: hidden;
