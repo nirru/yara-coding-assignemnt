@@ -1,0 +1,11 @@
+:root{
+    --navy-blue: hsla(239, 97%, 37%, 1);
+    --dark-cornflower-blue: hsla(214, 99%, 54%, 1);
+    --star-command-blue: hsla(201, 100%, 71%, 1);
+    --blue-green: hsla(195, 100%, 78%, 1);
+    --cerulean-crayola: hsla(190, 100%, 85%, 1);
+    --sky-blue-crayola: hsla(190, 68%, 89%, 1);
+    --sky-blue-crayola-2: hsla(189, 40%, 94%, 1);
+    --blizzard-blue: hsla(190, 29%, 96%, 1);
+    --powder-blue: hsla(190, 19%, 97%, 1);
+}
