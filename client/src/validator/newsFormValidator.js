@@ -7,7 +7,7 @@ export const validate = (values) => {
     errors.author = 'Author is required';
   }
   if (!values.description) {
-    errors.description = 'Author is required';
+    errors.description = 'Description is required';
   }
 
   return errors;
